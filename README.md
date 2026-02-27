@@ -21,7 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=noumi553&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🌤️ Team Weather App (Java Swing)
+## 🌤️ Team Weather App (Java Swing)
 A desktop-based Weather Application built using Java Swing that provides real-time weather updates using the Gimi Weather API.
 ### Developed as a team project by:
 Nouman Aziz
@@ -29,7 +29,7 @@ Nouman Aziz
 Azhar Mehmood
 
 Asad
-### 📌 Project Overview
+## 📌 Project Overview
 The Team Weather App is a Java desktop application that allows users to:
 
 🌍 Search weather by city name
@@ -43,7 +43,7 @@ The Team Weather App is a Java desktop application that allows users to:
 ☁️ Get overall weather condition
 
 The application fetches real-time weather data from the Gimi API and displays it in a user-friendly graphical interface built with Java Swing.
-### 🛠️ Technologies Used
+## 🛠️ Technologies Used
 Java
 
 Java Swing (GUI)
@@ -53,7 +53,7 @@ Gimi Weather API
 JSON Parsing
 
 HTTP Requests
-### 🚀 Features
+## 🚀 Features
 Clean and simple GUI
 
 Real-time weather updates
@@ -64,7 +64,7 @@ Responsive user interaction
 
 Lightweight desktop application
 
-### ⚙️ How to Run the Project
+## ⚙️ How to Run the Project
 
 ![](git clone https://github.com/noumi553/team-weather-app.git)
 
